@@ -1,0 +1,51 @@
+﻿  Ball.cpp
+  console.cpp
+  graphics.cpp
+  Paddle.cpp
+  Source.cpp
+C:\Users\Shiro VV\Desktop\18120260_18120261\18120260_18120261\Source\18120260_18120261\Source.cpp(13,35): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shiro VV\Desktop\18120260_18120261\18120260_18120261\Source\18120260_18120261\Source.cpp(61,27): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shiro VV\Desktop\18120260_18120261\18120260_18120261\Source\18120260_18120261\Source.cpp(72,27): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shiro VV\Desktop\18120260_18120261\18120260_18120261\Source\18120260_18120261\Source.cpp(78,22): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shiro VV\Desktop\18120260_18120261\18120260_18120261\Source\18120260_18120261\Source.cpp(79,23): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shiro VV\Desktop\18120260_18120261\18120260_18120261\Source\18120260_18120261\Source.cpp(87,22): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shiro VV\Desktop\18120260_18120261\18120260_18120261\Source\18120260_18120261\Source.cpp(88,23): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shiro VV\Desktop\18120260_18120261\18120260_18120261\Source\18120260_18120261\Source.cpp(121,27): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shiro VV\Desktop\18120260_18120261\18120260_18120261\Source\18120260_18120261\Source.cpp(132,27): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shiro VV\Desktop\18120260_18120261\18120260_18120261\Source\18120260_18120261\Source.cpp(138,22): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shiro VV\Desktop\18120260_18120261\18120260_18120261\Source\18120260_18120261\Source.cpp(139,23): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shiro VV\Desktop\18120260_18120261\18120260_18120261\Source\18120260_18120261\Source.cpp(148,22): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shiro VV\Desktop\18120260_18120261\18120260_18120261\Source\18120260_18120261\Source.cpp(149,23): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shiro VV\Desktop\18120260_18120261\18120260_18120261\Source\18120260_18120261\Source.cpp(223,34): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shiro VV\Desktop\18120260_18120261\18120260_18120261\Source\18120260_18120261\Source.cpp(223,21): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shiro VV\Desktop\18120260_18120261\18120260_18120261\Source\18120260_18120261\Source.cpp(224,34): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shiro VV\Desktop\18120260_18120261\18120260_18120261\Source\18120260_18120261\Source.cpp(224,21): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shiro VV\Desktop\18120260_18120261\18120260_18120261\Source\18120260_18120261\Source.cpp(245,39): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shiro VV\Desktop\18120260_18120261\18120260_18120261\Source\18120260_18120261\Source.cpp(245,32): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shiro VV\Desktop\18120260_18120261\18120260_18120261\Source\18120260_18120261\Source.cpp(245,27): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shiro VV\Desktop\18120260_18120261\18120260_18120261\Source\18120260_18120261\Source.cpp(246,23): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shiro VV\Desktop\18120260_18120261\18120260_18120261\Source\18120260_18120261\Source.cpp(259,53): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shiro VV\Desktop\18120260_18120261\18120260_18120261\Source\18120260_18120261\Source.cpp(259,40): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shiro VV\Desktop\18120260_18120261\18120260_18120261\Source\18120260_18120261\Source.cpp(260,58): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shiro VV\Desktop\18120260_18120261\18120260_18120261\Source\18120260_18120261\Source.cpp(260,44): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shiro VV\Desktop\18120260_18120261\18120260_18120261\Source\18120260_18120261\Source.cpp(263,25): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Shiro VV\Desktop\18120260_18120261\18120260_18120261\Source\18120260_18120261\Source.cpp(264,34): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shiro VV\Desktop\18120260_18120261\18120260_18120261\Source\18120260_18120261\Source.cpp(264,21): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shiro VV\Desktop\18120260_18120261\18120260_18120261\Source\18120260_18120261\Source.cpp(267,25): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Shiro VV\Desktop\18120260_18120261\18120260_18120261\Source\18120260_18120261\Source.cpp(268,88): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shiro VV\Desktop\18120260_18120261\18120260_18120261\Source\18120260_18120261\Source.cpp(268,77): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+C:\Users\Shiro VV\Desktop\18120260_18120261\18120260_18120261\Source\18120260_18120261\Source.cpp(275,33): warning C4305:  'argument': truncation from 'double' to 'GLclampf'
+Source.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowSize referenced in function "void __cdecl menu(int,char * *)" (?menu@@YAXHPEAPEAD@Z)
+Source.obj : error LNK2019: unresolved external symbol __imp_glutInitDisplayMode referenced in function "void __cdecl menu(int,char * *)" (?menu@@YAXHPEAPEAD@Z)
+Source.obj : error LNK2019: unresolved external symbol __imp_glutMainLoop referenced in function "void __cdecl menu(int,char * *)" (?menu@@YAXHPEAPEAD@Z)
+Source.obj : error LNK2019: unresolved external symbol __imp_glutPostRedisplay referenced in function "void __cdecl update1player(int)" (?update1player@@YAXH@Z)
+Source.obj : error LNK2019: unresolved external symbol __imp_glutSwapBuffers referenced in function "void __cdecl draw(void)" (?draw@@YAXXZ)
+Source.obj : error LNK2019: unresolved external symbol __imp_glutTimerFunc referenced in function "void __cdecl menu(int,char * *)" (?menu@@YAXHPEAPEAD@Z)
+Source.obj : error LNK2019: unresolved external symbol __imp_glutDisplayFunc referenced in function "void __cdecl menu(int,char * *)" (?menu@@YAXHPEAPEAD@Z)
+Source.obj : error LNK2019: unresolved external symbol __imp___glutInitWithExit referenced in function glutInit_ATEXIT_HACK
+Source.obj : error LNK2019: unresolved external symbol __imp___glutCreateWindowWithExit referenced in function glutCreateWindow_ATEXIT_HACK
+Source.obj : error LNK2019: unresolved external symbol __imp_glutBitmapString referenced in function "void __cdecl drawText(float,float,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?drawText@@YAXMMV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+freeglut.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+GL\freeglut.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\Shiro VV\Desktop\18120260_18120261\18120260_18120261\Source\x64\Debug\18120260_18120261.exe : fatal error LNK1120: 10 unresolved externals
