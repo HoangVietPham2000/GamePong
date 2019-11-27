@@ -67,9 +67,6 @@ void updateBall2players() {
 		ball.pos_y > Pleft.y) {
 		if (ball.dir_y > 0)
 		{
-			/*float t = ((ball.pos_y - Pleft.y) / Pleft.height) - 0.5f;
-			ball.dir_x = abs(ball.dir_x); // abs
-			ball.dir_y = t;*/
 			ball.dir_x = abs(ball.dir_x);
 			ball.dir_y = abs(ball.dir_y);
 
@@ -88,9 +85,6 @@ void updateBall2players() {
 		ball.pos_y > Pright.y) {
 		if (ball.dir_y > 0)
 		{
-			/*float t = ((ball.pos_y - Pleft.y) / Pleft.height) - 0.5f;
-			ball.dir_x = abs(ball.dir_x); // abs
-			ball.dir_y = t;*/
 			ball.dir_x = -abs(ball.dir_x);
 			ball.dir_y = abs(ball.dir_y);
 
@@ -130,10 +124,7 @@ void updateBall2players() {
 	// hit bottom wall?
 	if (ball.pos_y < 8) {
 		ball.dir_y = abs(ball.dir_y); // abs
-	}
-
-	// make sure that length of dir stays at 1
-	
+	}	
 }
 
 void updateBall1players() {
@@ -206,8 +197,6 @@ void updateBall1players() {
 	if (ball.pos_y < 8) {
 		ball.dir_y = abs(ball.dir_y); // abs
 	}
-
-	// make sure that length of dir stays at 1
 }
 
 void updatePaddle1player() {
